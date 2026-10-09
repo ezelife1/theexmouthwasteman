@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://theexmouthwasteman.co.uk/sitemap.xml
